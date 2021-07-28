@@ -1,6 +1,5 @@
 {
   "name": "shorten-website",
-  "homepage": "https://jaypatel9800.github.io/shorten-link-website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
